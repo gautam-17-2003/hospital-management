@@ -14,7 +14,7 @@ config({path: "./config/config.env"})
 const app = express();
 
 app.use(cors({
-    origin: process.env.FRONTEND_URL,
+    origin: *,
     methods: ["GET","POST","PUT","DELETE"],
     credentials: true,
 }));
