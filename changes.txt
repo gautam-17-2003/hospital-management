@@ -1,7 +1,0 @@
-different page for contact us
-page of doctors (view cards) and to book appointment
-about us mein acha sa UI
-user login (hamburger)
-quotes
-medical reports, records
-checkup
